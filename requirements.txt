@@ -1,6 +1,6 @@
 pyspark
 pandas
-matplotlip
+matplotlib
 seaborn
 python-dotenv
 jupyterlab
