@@ -1,0 +1,7 @@
+pyspark
+pandas
+matplotlip
+seaborn
+python-dotenv
+jupyterlab
+ipykernel
